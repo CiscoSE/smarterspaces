@@ -7,7 +7,7 @@ This project was developed by:
 - Isi Ramirez (AppDynamics)
 - Stefan Hemeier (IKEA)
 
-*N.B. - this project was developed in less than 48 hours as a proof-of-concept, and as such is not regularly maintained.*
+*N.B. - this project was developed in less than 48 hours as a proof-of-concept
 
 ## Installation
 
